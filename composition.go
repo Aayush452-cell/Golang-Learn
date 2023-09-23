@@ -11,7 +11,7 @@ type Car struct {
 	Brand string
 }
 
-func main() {
+func temp4() {
 	car := Car{
 		Engine: Engine{Type: "V8"},
 		Brand:  "Audi",
